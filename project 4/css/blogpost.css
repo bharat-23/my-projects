@@ -1,0 +1,8 @@
+.post-img {
+    height: 500px;
+    overflow: hidden;
+}
+
+.post-img img {
+    width: 100%;
+}
