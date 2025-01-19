@@ -33,8 +33,15 @@ nav {
     flex-wrap: wrap;
 }
 
-.logo {
-    width: 130px;
+nav .logo a {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+nav .logo a span {
+    color: #ff004f;
 }
 
 nav ul li {
